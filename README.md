@@ -6,6 +6,8 @@
 
 ## This version of OrcaSlicer restores full BambuNetwork support for Bambu Lab printers.
 
+Forking in case Bambu sues Luis & Fulu Foundation. Good luck suing me Bambu, pretty sure your legal departement can't even point to Tunisia on a map.
+ 
 You are not limited to LAN only.  
 It works over the internet just like before, through BambuNetwork, with full functionality for normal use and printing.
 
